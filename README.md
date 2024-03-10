@@ -24,7 +24,7 @@ Start the server
 
 ## Swagger
 
-After running the server locally:
+After running the local host, to access swagger go to:
 
 http://localhost:8080/swagger-ui/index.html#/
 ## Authors
